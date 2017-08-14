@@ -2,7 +2,7 @@
 A Speech Based Browser
 
 
-# TIMING
+# Timing
 This browser was made during 6th semester of my degree.
 
 # Key Functionality
